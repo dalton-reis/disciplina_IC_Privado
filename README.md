@@ -1,2 +1,2 @@
-# disciplinaICPrivado
-PRIVADO - Material da disciplina de Introdução à Computação
+# disciplinaICNot
+Material da disciplina de Introdução à Computação
