@@ -93,7 +93,6 @@ Dia da semana: sextas (20:20\~22:00)
 
 Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21
 
-
 <!-- 
 Ideias
 - Caça ao tesouro para conhecer diferentes locais da FURB
