@@ -7,9 +7,17 @@ Dia da semana: sextas (20:20\~22:00)
 
 ### Aula01 06/08/21
 
+- Apresentação do coordenador do curso.  
+- Apresentação do professor.  
 - Apresentação do plano de ensino.  
-- Apresentação da turma.  
-- Unidade 1: o que é ciência da computação.
+- Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<bu.furb.br>)  
+- Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
+    Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
+    Senão tiver câmera (pode usar celular)
+    Senão tiver microfone, escreve no Chat do Teams que eu leio  
+- Unidade 1: o que é ciência da computação.  
+
+<!-- AulaIC01_2021-02-25.mp4 tempo:  -->  
 
 ### Aula02 13/08/21
 
