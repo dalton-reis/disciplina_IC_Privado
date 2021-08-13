@@ -7,30 +7,29 @@ Dia da semana: sextas (20:20\~22:00)
 
 ### Aula01 06/08/21
 
-- Apresentação do coordenador do curso.  
-- Apresentação do professor.  
-- Apresentação do plano de ensino.  
-- Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<bu.furb.br>)  
-- Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
-    Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
-    Senão tiver câmera (pode usar celular)
-    Senão tiver microfone, escreve no Chat do Teams que eu leio  
-- Unidade 1: o que é ciência da computação.  
-
-<!-- AulaIC01_2021-02-25.mp4 tempo:  -->  
+- [x] Apresentação dos coordenadores dos cursos (BCC e SIS).  
+- [x] Apresentação da diretora do Centro (CCEN).  
+- [x] Apresentação do professor.  
+- [x] Apresentação do plano de ensino.  
+- [x] Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<bu.furb.br>)  
 
 ### Aula02 13/08/21
 
-- Unidade 1: matriz curricular do curso.
-- Unidade 2: história da computação e do computador.  
-- Divisão dos grupos e início da atividade de coleta de fatos históricos.  
+- [ ] Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
+    Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
+    Senão tiver câmera (pode usar celular)
+    Senão tiver microfone, escreve no Chat do Teams que eu leio  
+- [ ] Definir equipes 5 alunos.  
+- [ ] Slides_Unidade1.  
 
 ### Aula03 20/08/21
 
-- Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
+- Unidade 2: história da computação e do computador.  
+- Divisão dos grupos e início da atividade de coleta de fatos históricos.  
 
 ### Aula04 27/08/21
 
+- Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
 - Unidade 2: criação de um infográfico coletivo (toda a sala) e apresentação  de um fato histórico por aluno.
 
 ### 03/09/21
