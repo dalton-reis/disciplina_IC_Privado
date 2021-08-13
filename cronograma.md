@@ -19,7 +19,7 @@ Dia da semana: sextas (20:20\~22:00)
     Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
     Senão tiver câmera (pode usar celular)
     Senão tiver microfone, escreve no Chat do Teams que eu leio  
-- [ ] Definir equipes 5 alunos.  
+- [ ] Definir equipes 3 alunos.  
 - [ ] Slides_Unidade1.  
 
 ### Aula03 20/08/21
