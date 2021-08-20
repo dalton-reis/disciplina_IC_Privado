@@ -16,15 +16,24 @@ Comparada com outras áreas, a Ciência da Computação é muito recente. Mas, n
 
 Vamos trocar umas ideias a respeito?  
 
+- por que estudar a história da computação e dos computadores? <!-- Para não repetir os mesmos erros passadaos. Podem até passar por erros novos, mas não passar pelos os mesmos. -->  
+- por que estudar a história da computação, e não só dos computadores? <!-- A ciência vem antes do computador ... -->  
+- quem é o "pai" da Computação? <!-- Alan Turing -->
+- quem é o "mãe" da Computação? <!-- Ada Lovelace -->
+- quem é o "pai" da Lógica? <!-- Aristóteles -->
+- qual é o nome do robô que é utilizado para fazer operações aqui em Blumenau? <!--   Da Vince - O "nosso, em Blumenau" é controlado por um médico. Mas tem uma versão que fez um tipo de cirurgia totalmente autônomo -->  
+
 ## Atividade
 
 Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação mostrando fisicamente os equipamentos em sala, mas vamos olhar um pouco mais ... Vamos olhar um pouco a história da Ciência da Computação com a história do computador.  
 
 Agora, em trios (3 alunos), pesquisem fatos da história da computação.  
+**Atenção** Prof. vai criar as equipes no Teams aleatoriamente.  
 
 - Coletem ao menos 3 fatos para a história da computação e 5 para a história do computador (datas, personagens, imagens, feito histórico, contribuição para o desenvolvimento da área, impacto, etc).  
 - Também 3 fatos da história da internet mundial e mais 3 no Brasil.  
 - Além de 3 fatos da história da informática em nossa região.  
+**Atenção**: total de 17 fatos.  
 
 Criem um arquivo no Word (colaborativo, compartilhado entre os integrantes da equipe) registrando o material coletado. Usaremos em próximas atividades.  
 
