@@ -1,8 +1,4 @@
-# Algumas anotações das aulas
-
-## ![Rabiscos](aulaAnotacoes.drawio.svg)
-
-## Aula: 02
+# Aula: 02
 
 Piadinha Nerd .. "O **hardware** é o que chutamos e **software** o que xingamos".  
 

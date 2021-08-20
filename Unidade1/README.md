@@ -1,8 +1,4 @@
-# Algumas anotações das aulas
-
-## ![Rabiscos](aulaAnotacoes.drawio.svg)
-
-## Aula: 01
+# Aula: 01
 
 - Avisos: os avisos serão feitos todos pelo Teams
 - Apresentação do Professor
@@ -59,8 +55,6 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - Avaliações: prazos nas atividades no AVA3 dentro das unidades, e no cronograma
 - Referências bibliográficas: algumas, mas iremos buscar mais nas aulas  
   
-## Conteúdo
-
 ### Apoio
 
 - links gerais de toda a disciplina
