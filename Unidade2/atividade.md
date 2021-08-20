@@ -1,5 +1,7 @@
 # Atividade
 
+Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação mostrando fisicamente os equipamentos em sala, mas vamos olhar um pouco mais ... Vamos olhar um pouco a história da Ciência da Computação com a história do computador.
+
 Agora, em trios (3 alunos), pesquisem fatos da história da computação.  
 
 Coletem ao menos 3 fatos para a história da computação e 5 para a história do computador (datas, personagens, imagens, feito histórico, contribuição para o desenvolvimento da área, impacto, etc).  
