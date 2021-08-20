@@ -92,10 +92,10 @@ Para formação superior em Computação no Brasil, o MEC e SBC definem diferent
 - Licenciatura em Computação  
 - Tecnólogos:  
   - Análise e Desenvolvimento de Sistemas  
-- Redes de Computadores  
-- Gestão da TI  
-- Sistemas para Internet  
-- Jogos digitais  
+  - Redes de Computadores  
+  - Gestão da TI  
+  - Sistemas para Internet  
+  - Jogos digitais  
   ...
 
 ### 1.3 Ciência da Computação na FURB
