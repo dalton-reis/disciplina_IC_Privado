@@ -15,3 +15,13 @@ A preocupação constante de minimizar o esforço repetitivo e tedioso produziu 
 Comparada com outras áreas, a Ciência da Computação é muito recente. Mas, nestes poucos anos (pode-se apontar a Segunda Guerra Mundial como um marco inicial, quando efetivamente se construíram os primeiros computadores digitais) o avanço da Computação foi exponencial, abrindo-se em um grande leque de tecnologias, conceitos, idéias, transformando-se em uma figura quase irreconhecível. Atualmente falar de estado da arte na Computação tornou-se sem sentido: sob que ótica, perspectiva, campo ou área? Apesar da sua recente irrupção na história contemporânea, a partir dos anos 40 do século XX, ela já se tornou complexa, ampla, geradora de novos enfoques, tornando-se um verdadeiro desafio a quem queira entendê-la e traçar sua evolução. (p.23)  
 
 Vamos trocar umas ideias a respeito?  
+
+## Atividade
+
+Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação mostrando fisicamente os equipamentos em sala, mas vamos olhar um pouco mais ... Vamos olhar um pouco a história da Ciência da Computação com a história do computador.  
+Agora, em trios (3 alunos), pesquisem fatos da história da computação.  
+Coletem ao menos 3 fatos para a história da computação e 5 para a história do computador (datas, personagens, imagens, feito histórico, contribuição para o desenvolvimento da área, impacto, etc).  
+Também 3 fatos da história da internet mundial e mais 3 no Brasil.  
+Além de 3 fatos da história da informática em nossa região.  
+Criem um arquivo no Word (colaborativo, compartilhado entre os integrantes da equipe) registrando o material coletado. Usaremos em próximas atividades.  
+Mas aproveitem o momento e viajem na história. Leiam, assistam vídeos, escutem podcasts, troquem ideias e informações.  
