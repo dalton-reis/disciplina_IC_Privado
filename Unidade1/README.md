@@ -98,11 +98,12 @@ Para formação superior em Computação no Brasil, o MEC e SBC definem diferent
   - Jogos digitais  
   ...
 
+<!-- FIXME: buscar material do cruso de SIS também -->
 ### 1.3 Ciência da Computação na FURB
 
 O curso de Ciência da Computação da Universidade Regional de Blumenau tem como objetivo formar um profissional com conhecimento científico e base sólida em computação, atendendo de forma proativa e ética às demandas da comunidade regional ( PPC - Projeto Pedagógico do Curso de Ciência da Computação - BCC da FURB, Set/2018).  
 
-Espera-se que os egressos do curso: (PPC).  
+Espera-se que os egressos do curso: (PPC):  
 
 - possuam sólida formação em Ciência da Computação, ou seja, dominem os fundamentos teóricos e as tecnologias da área de Computação, de tal forma que os capacitem a:  
   - construir aplicativos de propósito geral, ferramentas e infraestrutura de software de sistemas de computação e de sistemas embarcados;  
@@ -135,4 +136,4 @@ O bacharel em Ciência da Computação, além do conhecimento em sistemas comput
 
 A área de atuação do bacharel em Ciência da Computação é ampla, podendo atuar na área de computação para resolver problemas computacionais propondo soluções algorítmicas e implementá-las em vários níveis de complexidade e em multiplataformas; desenvolver sistemas de computação empregando teorias, processo, métodos e ferramentas adequadas visando a qualidade de processo e produto; Desenvolver projetos de qualquer natureza em equipes multidisciplinares; Implantar Sistemas Computacionais; Gerenciar infraestrutura computacional, incluindo projeto, implantação e manutenção; Aprender contínua e autonomamente sobre métodos, instrumentos, tecnologias de infraestrutura e domínios de aplicação da computação; Desenvolver estudos avançados visando o desenvolvimento científico e tecnológico da computação e a criação de soluções computacionais inovadoras para problemas em qualquer domínio de conhecimento.  
 
-- [x] [Slides_Unidade1](./Unidade1/Slides_Unidade1 "Slides_Unidade1")  
+- [x] [Slides_Unidade1](./Slides_Unidade1 "Slides_Unidade1")  
