@@ -15,15 +15,16 @@ Dia da semana: sextas (20:20\~22:00)
 
 ### Aula02 13/08/21
 
-- [ ] Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
+- [x] Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
     Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
     Senão tiver câmera (pode usar celular)
     Senão tiver microfone, escreve no Chat do Teams que eu leio  
-- [ ] Definir equipes 3 alunos.  
-- [ ] Slides_Unidade1.  
+- [ ] Slides_Unidade1  
+    [TODO:] parei no slide final sobre Ciência da Computação.
 
 ### Aula03 20/08/21
 
+- [ ] Definir equipes 3 alunos.  
 - Unidade 2: história da computação e do computador.  
 - Divisão dos grupos e início da atividade de coleta de fatos históricos.  
 
