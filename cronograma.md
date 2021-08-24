@@ -9,7 +9,7 @@ Dia da semana: sextas (20:20\~22:00)
 
 - [x] Apresentação dos coordenadores dos cursos (BCC e SIS).  
 - [x] Apresentação da diretora do Centro (CCEN).  
-- [x] Apresentação do professor.  
+- [x] [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis "Apresentação do Professor").  
 - [x] Apresentação do plano de ensino.  
 - [x] Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<bu.furb.br>)  
 
