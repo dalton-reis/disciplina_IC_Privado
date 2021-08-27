@@ -25,12 +25,16 @@ Vamos trocar umas ideias a respeito?
 
 ## Atividade
 
+### Coleta de fatos
+
 Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação mostrando fisicamente os equipamentos em sala, mas vamos olhar um pouco mais ... Vamos olhar um pouco a história da Ciência da Computação com a história do computador.  
 
 Agora, em trios (3 alunos), pesquisem fatos da história da computação.  
 **Atenção** Então peço que organizem sua **equipe**.  
-Criem um arquivo no Word (colaborativo, compartilhado entre os integrantes da equipe, e acrescentem o professor (dalton@furb.br) junto neste documento. Assim o professor já pode saber quem são os integrantes de cada equipe, e também acompanhar o que vocês estão produzindo (lembrem que se tem um histórico do que cada integrante fez neste documento).  
-Assim, este documento vai servir para vocês irem registrando o material coletado.  Lembrem, este documento nós usaremos em próximas atividades.  
+Criem um arquivo no Word (colaborativo) compartilhado entre os integrantes da equipe, e acrescentem o professor (dalton@furb.br) junto neste documento. Assim o professor pode ir acompanhando o que vocês estão produzindo (lembrem que se tem um histórico do que cada integrante fez neste documento).  
+No inicio deste arquivo coloquem os nomes dos integrantes da equipe. E usem este documento para registrar o material coletado.  Lembrem, este documento nós usaremos em próximas atividades.  
+
+Assim o professor vai criar uma equipe
 
 **O que fazer**:
 
@@ -41,9 +45,22 @@ Assim, este documento vai servir para vocês irem registrando o material coletad
 
 Mas aproveitem o momento e viajem na história. Leiam, assistam vídeos, escutem podcasts, troquem ideias e informações.  
 
-<!-- 
-[22:15] Dalton Solano dos Reis Importante!
+<!-- [x]TODO:INICIO atualizar: deixar comentada está segunda parte do enunciado do trabalho, para eles primero pesquisarem os fatos acima e depois criarem a linha do tempo -->
+### Produção do InfoGráfico
 
+Bom, agora a equipe deverá elaborar uma linha do tempo da história da computação (computação, computador, internet, informática regional).  
+
+A linha do tempo será um infográfico, utilizando o material coletado desde a aula passada. Destaque a data, indique o personagem, comente sobre o fato ou contribuição, insira uma imagem... Coloque ao menos 15 fatos em sua linha, envolvendo todas as categorias solicitadas.  
+
+Softwares sugeridos para elaboração do infográfico são [https://www.easel.ly](https://www.easel.ly "https://www.easel.ly") e [https://www.canva.com](https://www.canva.com "https://www.canva.com"), mas se vocês tiverem familiaridade com outro software, podem usar. Após construído, gere uma imagem ou um pdf de sua linha do tempo e poste no fórum [InfoGráfico](https://ava3.furb.br/mod/forum/view.php?id=513741 "InfoGráfico") no AVA3. Um único integrante precisa fazer a postagem. Também lembrem de compartilhar o acesso ao infográfico com o professor (dalton@furb.br).  
+
+A data limite para postagem é 09/Setembro/2021.  
+
+Esta é uma atividade de avaliação. Portanto, lembre-se de postar também os nomes dos integrantes da equipe e colocar os nomes na imagem do infográfico.  
+
+Esta avaliação será completada por outra atividade que realizaremos na próxima aula.
+
+<!-- 
 Unidade 2: atividade
     Segue o link do enunciado da atividade: https://github.com/dalton-reis/disciplinaICNot/tree/main/Unidade2#atividade
 
@@ -57,5 +74,4 @@ E na próxima aula (sexta quem vem), faremos:
  - das 21:10~22:00  cada equipe começar a apresentar o seu material, e nós (todos da sala) começarmos a montar o Mapa Mental
 
 Bom final de semana.
-disciplinaICNot/Unidade2 at main · dalton-reis/disciplinaICNotMaterial da disciplina de Introdução à Computação. Contribute to dalton-reis/disciplinaICNot development by creating an account on GitHub.github.com<https://teams.microsoft.com/l/message/19:91f0877c603147748c113fa98d48d66a@thread.tacv2/1629508550484?tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052&amp;groupId=727d4894-8dcc-4d55-bae8-8a3b3c2955a2&amp;parentMessageId=1629508550484&amp;teamName=Introdução à Computação-CMP.0084.00.02 (20212)&amp;channelName=Geral&amp;createdTime=1629508550484>
 -->
