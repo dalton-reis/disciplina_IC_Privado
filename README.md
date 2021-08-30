@@ -1,3 +1,8 @@
+<!-- [x]TODO:INICIO atualizar -->
+[AVA3]: <https://ava3.furb.br/course/view.php?id=27088> "AVA3"  
+[Aulas MS-Teams]: <https://teams.microsoft.com/l/channel/19%3a91f0877c603147748c113fa98d48d66a%40thread.tacv2/Geral?groupId=727d4894-8dcc-4d55-bae8-8a3b3c2955a2&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
+[Gravações das aulas]: <https://furb.sharepoint.com/teams/CMP0084000220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas"  
+
 # Disciplina de Introdução à Computação
 
 Olá, seja bem vindo .. :smile:
@@ -8,10 +13,9 @@ Para se localizar em relação aos dias de aula e o conteúdo que está sendo pa
 
 ## Links
 
-<!-- FIXME: links das disciplinas -->
-[AVA3](<https://ava3.furb.br/course/view.php?id=27088> "AVA3")  
-[Aulas MS-Teams](<https://teams.microsoft.com/l/channel/19%3a91f0877c603147748c113fa98d48d66a%40thread.tacv2/Geral?groupId=727d4894-8dcc-4d55-bae8-8a3b3c2955a2&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams")  
-[Gravações das aulas](<https://furb.sharepoint.com/teams/CMP0084000220212/Documentos%20Compartilhados/General/Recordings> "Gravações das aulas")  
+[AVA3]  
+[Aulas MS-Teams]  
+[Gravações das aulas]  
 
 **IMPORTANTE**: sempre consulte o [Cronograma](cronograma.md "Cronograma") para verificar os prazos de entrega das atividades avaliativas.  
 
