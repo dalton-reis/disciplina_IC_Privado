@@ -83,12 +83,12 @@ Como para assistir todos os vídeos levará um pouco mais que o tempo de nossa a
 
 Lista de Vídeos:
 
-- [A história da informação - Documentário BBC](<https://www.youtube.com/watch?v=ppNCQ5cC5uA&feature=youtu.be> "A história da informação - Documentário BBC")  
+- [A história da informação - Documentário BBC 59:06](<https://www.youtube.com/watch?v=ppNCQ5cC5uA&feature=youtu.be> "A história da informação - Documentário BBC")  
   - Com destaque para a contribuição de Alan Turing (habilite legendas em português, se necessário) - Vale a pena assistir completo!  
-- [A história do ENIAC - TecMundo](<https://www.youtube.com/watch?v=dy0wpDfnpzo> "A história do ENIAC - TecMundo")  
-- [A evolução dos computadores - PCMarvie](<https://www.youtube.com/watch?v=mFdUqqwzbVs> "[A evolução dos computadores - PCMarvie")  
-- [A História da Internet - TecMundo](<https://www.youtube.com/watch?v=pKxWPo73pX0> "A História da Internet - TecMundo")  
-- [A história da Internet no Brasil - TecMundo](<https://www.youtube.com/watch?v=k_inQhpKprg> "A história da Internet no Brasil - TecMundo")  
+- [A história do ENIAC - TecMundo 09:15](<https://www.youtube.com/watch?v=dy0wpDfnpzo> "A história do ENIAC - TecMundo")  
+- [A evolução dos computadores - PCMarvie 13:48](<https://www.youtube.com/watch?v=mFdUqqwzbVs> "[A evolução dos computadores - PCMarvie")  
+- [A História da Internet - TecMundo 14:34](<https://www.youtube.com/watch?v=pKxWPo73pX0> "A História da Internet - TecMundo")  
+- [A história da Internet no Brasil - TecMundo 14:32](<https://www.youtube.com/watch?v=k_inQhpKprg> "A história da Internet no Brasil - TecMundo")  
 
 Bom, agora vamos trocar ideias!  
 Depois de assistir, participe do fórum disponível mais abaixo para comentar o que você mais gostou, o que deixou você intrigado ou confuso, o que você concorda ou discorda em relação aos comentários de seus colegas.  
