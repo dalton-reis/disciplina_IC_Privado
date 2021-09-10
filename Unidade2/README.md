@@ -1,8 +1,8 @@
-# Aula: 02
+# Unidade 2 - História da Computação e do Computador
 
 Piadinha Nerd .. "O **hardware** é o que chutamos e **software** o que xingamos".  
 
-## Unidade 2 - História da Computação e do Computador
+## Aula: 02
 
 Como aquecimento para nossa atividade de conhecer um pouco a história da Computação e do Computador, vamos ler alguns trechos do livro HISTÓRIA DA COMPUTAÇÃO: O CAMINHO DO PENSAMENTO E DA TECNOLOGIA, de Cléuzio Fonseca Filho (Porto Alegre: EDIPUCRS, 2007).  
 
@@ -10,13 +10,13 @@ Ninguém produz por si mesmo os conhecimentos de que necessita para sobreviver e
 A história é parte dessa necessidade humana de refletir: é o desejo de explicar a origem e a verdade das próprias instituições, quem ou qual acontecimento as estabeleceu. (p.16)  
 
 A computação é um corpo de conhecimentos formado por uma infra-estrutura conceitual e um edifício tecnológico onde se materializam o hardware e o software. A primeira fundamenta a segunda e a precedeu. A teoria da computação tem seu desenvolvimento próprio e independente, em boa parte, da tecnologia. Essa teoria baseia-se na definição e construção de máquinas abstratas, e no estudo do poder dessas máquinas na solução de problemas.  
-A preocupação constante de minimizar o esforço repetitivo e tedioso produziu o desenvolvimento de máquinas que passaram a substituir os homens em determinadas tarefas. Entre essas está o computador, que se expandiu e preencheu rapidamente os espaços modernos pelos quais circulam as pessoas. A partir do aparecimento da noção de número natural, passando pela notação aritmética e pela notação mais vinculada ao cálculo algébrico, mostra-se como apareceram regras fixas que permitiram computar com rapidez e precisão, poupando, como dizia Leibniz, o espírito e a imaginação. “Descartes acreditava no emprego sistemático do cálculo algébrico como um método poderoso e universal para resolver todos os problemas. Esta crença juntou-se à de outros e surgem as primeiras idéias sobre máquinas universais, capazes de resolver todos os problemas. Esta era uma crença de mentes poderosas que deixaram obras respeitáveis na Matemática e nas ciências em geral” (p.13)  
+A preocupação constante de minimizar o esforço repetitivo e tedioso produziu o desenvolvimento de máquinas que passaram a substituir os homens em determinadas tarefas. Entre essas está o computador, que se expandiu e preencheu rapidamente os espaços modernos pelos quais circulam as pessoas. A partir do aparecimento da noção de número natural, passando pela notação aritmética e pela notação mais vinculada ao cálculo algébrico, mostra-se como apareceram regras fixas que permitiram computar com rapidez e precisão, poupando, como dizia Leibniz, o espírito e a imaginação. “Descartes acreditava no emprego sistemático do cálculo algébrico como um método poderoso e universal para resolver todos os problemas. Esta crença juntou-se à de outros e surgem as primeiras ideias sobre máquinas universais, capazes de resolver todos os problemas. Esta era uma crença de mentes poderosas que deixaram obras respeitáveis na Matemática e nas ciências em geral” (p.13)  
 
-Comparada com outras áreas, a Ciência da Computação é muito recente. Mas, nestes poucos anos (pode-se apontar a Segunda Guerra Mundial como um marco inicial, quando efetivamente se construíram os primeiros computadores digitais) o avanço da Computação foi exponencial, abrindo-se em um grande leque de tecnologias, conceitos, idéias, transformando-se em uma figura quase irreconhecível. Atualmente falar de estado da arte na Computação tornou-se sem sentido: sob que ótica, perspectiva, campo ou área? Apesar da sua recente irrupção na história contemporânea, a partir dos anos 40 do século XX, ela já se tornou complexa, ampla, geradora de novos enfoques, tornando-se um verdadeiro desafio a quem queira entendê-la e traçar sua evolução. (p.23)  
+Comparada com outras áreas, a Ciência da Computação é muito recente. Mas, nestes poucos anos (pode-se apontar a Segunda Guerra Mundial como um marco inicial, quando efetivamente se construíram os primeiros computadores digitais) o avanço da Computação foi exponencial, abrindo-se em um grande leque de tecnologias, conceitos, ideias, transformando-se em uma figura quase irreconhecível. Atualmente falar de estado da arte na Computação tornou-se sem sentido: sob que ótica, perspectiva, campo ou área? Apesar da sua recente irrupção na história contemporânea, a partir dos anos 40 do século XX, ela já se tornou complexa, ampla, geradora de novos enfoques, tornando-se um verdadeiro desafio a quem queira entendê-la e traçar sua evolução. (p.23)  
 
 Vamos trocar umas ideias a respeito?  
 
-- por que estudar a história da computação e dos computadores? <!-- Para não repetir os mesmos erros passadaos. Podem até passar por erros novos, mas não passar pelos os mesmos. -->  
+- por que estudar a história da computação e dos computadores? <!-- Para não repetir os mesmos erros passados. Podem até passar por erros novos, mas não passar pelos os mesmos. -->  
 - por que estudar a história da computação, e não só dos computadores? <!-- A ciência vem antes do computador ... -->  
 - quem é o "pai" da Computação? <!-- Alan Turing -->
 - quem é o "mãe" da Computação? <!-- Ada Lovelace -->
@@ -34,7 +34,7 @@ Agora, em trios (3 alunos), pesquisem fatos da história da computação.
 Criem um arquivo no Word (colaborativo) compartilhado entre os integrantes da equipe, e acrescentem o professor (dalton@furb.br) junto neste documento. Assim o professor pode ir acompanhando o que vocês estão produzindo (lembrem que se tem um histórico do que cada integrante fez neste documento).  
 No inicio deste arquivo coloquem os nomes dos integrantes da equipe. E usem este documento para registrar o material coletado.  Lembrem, este documento nós usaremos em próximas atividades.  
 
-[ ] Assim o professor vai criar um canal para cada equipe dentro da nossa disciplina no MS Teams.  
+[x] Assim o professor vai criar um canal para cada equipe dentro da nossa disciplina no MS Teams.  
 
 **O que fazer**:
 
@@ -71,7 +71,28 @@ O que deve ser feito até a próxima aula:
 
 E na próxima aula (sexta quem vem), faremos:
  - das 20:20~21:10 para vocês mostrarem para os integrantes da equipe o material pesquisado, e organizarem no documento;
- - das 21:10~22:00  cada equipe começar a apresentar o seu material, e nós (todos da sala) começarmos a montar o Mapa Mental
+ - das 21:10~22:00  cada equipe começa a montar o seu infográfico do material pesquisado.  
 
 Bom final de semana.
 -->
+
+## Aula: 03
+
+Como vocês já pesquisaram um pouco sobre a história da Ciências da Computação então vamos conhecer um pouco mais sobre a história da Computação e do computador por meio de alguns vídeos.  
+Como para assistir todos os vídeos levará um pouco mais que o tempo de nossa aula, peço que comecem assistir agora e terminem durante a semana.  
+
+Lista de Vídeos:
+
+- [A história da informação - Documentário BBC](<https://www.youtube.com/watch?v=ppNCQ5cC5uA&feature=youtu.be> "A história da informação - Documentário BBC")  
+  - Com destaque para a contribuição de Alan Turing (habilite legendas em português, se necessário) - Vale a pena assistir completo!  
+- [A história do ENIAC - TecMundo](<https://www.youtube.com/watch?v=dy0wpDfnpzo> "A história do ENIAC - TecMundo")  
+- [A evolução dos computadores - PCMarvie](<https://www.youtube.com/watch?v=mFdUqqwzbVs> "[A evolução dos computadores - PCMarvie")  
+- [A História da Internet - TecMundo](<https://www.youtube.com/watch?v=pKxWPo73pX0> "A História da Internet - TecMundo")  
+- [A história da Internet no Brasil - TecMundo](<https://www.youtube.com/watch?v=k_inQhpKprg> "A história da Internet no Brasil - TecMundo")  
+
+Bom, agora vamos trocar ideias!  
+Depois de assistir, participe do fórum disponível mais abaixo para comentar o que você mais gostou, o que deixou você intrigado ou confuso, o que você concorda ou discorda em relação aos comentários de seus colegas.  
+Assim, individualmente, poste seus comentários, observações, dúvidas. Após sua publicação, você visualizará comentários de colegas e então poderá interagir com eles.  
+Ao menos um comentário seu e uma réplica em comentário de colegas são necessários para concluir esta atividade.  
+
+[Comentários sobre os vídeos assistidos](<https://ava3.furb.br/mod/forum/view.php?id=492037> "Comentários sobre os vídeos assistidos")  

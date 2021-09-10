@@ -5,6 +5,10 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Cronograma Completo
 
+-----------
+
+## Unidade1
+
 ### Aula01 06/08/21
 
 - [x] Apresentação dos coordenadores dos cursos (BCC e SIS).  
@@ -21,9 +25,13 @@ Dia da semana: sextas (20:20\~22:00)
     Senão tiver microfone, escreve no Chat do Teams que eu leio  
 - [x] Slides_Unidade1  
 
+-----------
+
+## Unidade2
+
 ### Aula03 20/08/21
 
-- [ ] Definir equipes 3 alunos.  
+- [x] Definir equipes 3 alunos.  
 - Unidade 2: história da computação e do computador.  
 - Divisão dos grupos e início da atividade de coleta de fatos históricos.  
 
@@ -38,27 +46,34 @@ Dia da semana: sextas (20:20\~22:00)
 
 ### Aula05 10/09/21
 
-- Unidade 3: mercado de trabalho.  
-- Atividade em trios para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
+- Apresentação do infográfico pela Equipe, e oportunizando para discutir sobre o assunto.  
+
+-----------
+
+## Unidade3
 
 ### Aula06 17/09/21
 
-- Unidade 3: mercado de trabalho.  
-- Conversa sobre mercado de trabalho (cotidiano e carreira) com XXXX, Gerente de YYYY.
+- Mercado de trabalho.  
+- Atividade em trios para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
 
 ### Aula07 24/09/21
 
-- Unidade 3: mercado de trabalho.  
+- Mercado de trabalho.  
 - Conversa sobre mercado de trabalho (cotidiano e carreira) com XXXX, Gerente de YYYY.
+
+-----------
+
+## Unidade4
 
 ### Aula08 01/10/21
 
-- Unidade 4: Sistemas operacionais.
+- Sistemas operacionais.
 - Atividade de preparação - fórum de perguntas sobre S.O. em equipes.
 
 ### Aula09 08/10/21
 
-- Unidade 4: slides até Evolução dos Sistemas Operacionais (até gerência de memória).  
+- Slides até Evolução dos Sistemas Operacionais (até gerência de memória).  
 
 ### Aula10 15/10/21
 
@@ -70,31 +85,39 @@ Dia da semana: sextas (20:20\~22:00)
   - Desenvolvimento em duplas de um mapa mental sobre Sistemas Operacionais (avaliação).  
   - Questionário individual de avaliação.
 
+-----------
+
+## Unidade5
+
 ### Aula12 29/10/21
 
-- Unidade 5: Linguagens de Programação (até paradigmas de desenvolvimento).  
+- Linguagens de Programação (até paradigmas de desenvolvimento).  
 
 ### Aula13 05/11/21
 
-- Unidade 5: Linguagens de Programação.  
+- Linguagens de Programação.  
 - Definição do seminário sobre linguagens de programação (avaliação).  
 
 ### Aula14 12/11/21
 
-- Avaliação das unidades 5: questionário e Hello World.  
+- Avaliação: questionário e Hello World.  
 - Seminários sobre linguagens de programação: apresentação pelas duplas (10 linguagens).  
+
+-----------
+
+## Unidade6
 
 ### Aula15 19/11/21
 
-- Unidade 6: Sustentabilidade: ética. Dilemas éticos na sociedade.  
+- Sustentabilidade: ética. Dilemas éticos na sociedade.  
 
 ### Aula16 26/11/21
 
-- Unidade 6: Sustentabilidade. Atividade avaliativa em duplas sobre Sustentabilidade e Ética.  
+- Sustentabilidade. Atividade avaliativa em duplas sobre Sustentabilidade e Ética.  
 
 ### Aula17 03/12/21
 
-- Fechamento da Unidade 6. Dúvidas sobre o curso, matriz curricular e matrícula.  
+- Fechamento. Dúvidas sobre o curso, matriz curricular e matrícula.  
 
 -----------
 

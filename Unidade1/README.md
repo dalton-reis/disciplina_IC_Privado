@@ -56,7 +56,7 @@ Para formação superior em Computação no Brasil, o MEC e SBC definem diferent
   - Jogos digitais  
   ...
 
-<!-- FIXME: buscar material do cruso de SIS também -->
+<!-- FIXME: buscar material do curso de SIS também -->
 ### 1.3 Ciência da Computação na FURB
 
 O curso de Ciência da Computação da Universidade Regional de Blumenau tem como objetivo formar um profissional com conhecimento científico e base sólida em computação, atendendo de forma proativa e ética às demandas da comunidade regional ( PPC - Projeto Pedagógico do Curso de Ciência da Computação - BCC da FURB, Set/2018).  
