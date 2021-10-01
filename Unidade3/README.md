@@ -53,7 +53,7 @@ Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe �
 
 ## Aula: 05 - Palestra: Fabio Jascone
 
-Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio JAscone, vitando os links abaixo:
+Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio Jascone, vitando os links abaixo:
 
 - [Fabio Jascone: Philips](<https://www.careers.philips.com/latam/pt/fabio-jascone> "Fabio Jascone: Philips")  
 - [Fabio Jascone: linkedIn](<https://br.linkedin.com/in/fabiojascone/en> "Fabio Jascone: linkedIn")  
@@ -61,7 +61,7 @@ Bom, vamos continuar olhando como está o Mercado de trabalho na área da Comput
 
 E agora assista a sua palestra como gerente de projeto na empresa Philips:
 
-- [Fabio Jascone: Palestra](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcDHgJURrK1FnzF5EY4OPXEB8hU70WcK-a251JrbhG9_Kw?e=WP0faK> "Fabio Jascone: Palestra")  
+- [Fabio Jascone: Palestra /[1:31:01/]](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcDHgJURrK1FnzF5EY4OPXEB8hU70WcK-a251JrbhG9_Kw?e=WP0faK> "Fabio Jascone: Palestra")  
 
 Após ter assistido a palestra que tal trocar algumas ideias!  
 Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional.
