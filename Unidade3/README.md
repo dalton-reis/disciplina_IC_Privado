@@ -1,6 +1,6 @@
 # Unidade 3 - Mercado de trabalho
 
-## Aula: 04
+## Aula: 04 - Stack Overflow
 
 Iniciaremos esta unidade com uma atividade para as equipes analisando uma pesquisa a respeito de desenvolvedores ao redor do mundo.
 
@@ -50,3 +50,20 @@ Quais cada membro da equipe consideraria caso houvesse duas vagas de emprego que
 12. Desenvolvedores profissionais se preocupam com e aprendem novas tecnologias?  
 
 Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe 😉.
+
+## Aula: 05 - Palestra: Fabio Jascone
+
+Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio JAscone, vitando os links abaixo:
+
+- [Fabio Jascone: Philips](<https://www.careers.philips.com/latam/pt/fabio-jascone> "Fabio Jascone: Philips")  
+- [Fabio Jascone: linkedIn](<https://br.linkedin.com/in/fabiojascone/en> "Fabio Jascone: linkedIn")  
+- [Fabio Jascone: FURB/DSC monografia](<http://dsc.inf.furb.br/arquivos/tccs/monografias/2003-2fabioltjasconevf.pdf> "Fabio Jascone: FURB/DSC monografia")  
+
+E agora assista a sua palestra como gerente de projeto na empresa Philips:
+
+- [Fabio Jascone: Palestra](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcDHgJURrK1FnzF5EY4OPXEB8hU70WcK-a251JrbhG9_Kw?e=WP0faK> "Fabio Jascone: Palestra")  
+
+Após ter assistido a palestra que tal trocar algumas ideias!  
+Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional.
+
+- [Comentários sobre a Palestra](<https://ava3.furb.br/mod/forum/view.php?id=522599> "Comentários sobre a Palestra")  
