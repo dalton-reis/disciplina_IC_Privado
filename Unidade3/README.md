@@ -66,10 +66,10 @@ E agora assista a sua palestra como gerente de projeto na empresa Philips:
 Após ter assistido a palestra que tal trocar algumas ideias!  
 Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  
 
+- [Comentários sobre a Palestra](<https://ava3.furb.br/mod/forum/view.php?id=522599> "Comentários sobre a Palestra")  
+
 Para saber mais:  
 
 - [Philips Azurion Biplane Geometry](<https://youtu.be/E3Us_kox5Ac> "Philips Azurion Biplane Geometry")  
 - [Flexibility in your Hybrid OR - Philips Azurion with FlexArm](<https://youtu.be/L78UxTsdGjM> "Flexibility in your Hybrid OR - Philips Azurion with FlexArm")  
 - [Scrum](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)> "Scrum")  
-
-- [Comentários sobre a Palestra](<https://ava3.furb.br/mod/forum/view.php?id=522599> "Comentários sobre a Palestra")  
