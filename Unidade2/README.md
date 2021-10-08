@@ -1,8 +1,11 @@
 # Unidade 2 - História da Computação e do Computador
 
+2.1 Computação, 2.2 Computador, 2.3 Internet  
+Conhecer as noções básicas do universo da Computação e sua relação com as novas tecnologias presentes. Conscientes de que a formação humanística depende de conhecimentos históricos da própria evolução da computação, a disciplina resgata o referencial histórico da área e o relaciona aos temas técnicos do curso, tais como os projetos de hardware e software.  
+
 Piadinha Nerd .. "O **hardware** é o que chutamos e **software** o que xingamos".  
 
-## Aula: 02
+## Aula03
 
 Como aquecimento para nossa atividade de conhecer um pouco a história da Computação e do Computador, vamos ler alguns trechos do livro HISTÓRIA DA COMPUTAÇÃO: O CAMINHO DO PENSAMENTO E DA TECNOLOGIA, de Cléuzio Fonseca Filho (Porto Alegre: EDIPUCRS, 2007).  
 
@@ -23,9 +26,9 @@ Vamos trocar umas ideias a respeito?
 - quem é o "pai" da Lógica? <!-- Aristóteles -->
 - qual é o nome do robô que é utilizado para fazer operações aqui em Blumenau? <!--   Da Vince - O "nosso, em Blumenau" é controlado por um médico. Mas tem uma versão que fez um tipo de cirurgia totalmente autônomo -->  
 
-## Atividade
+### Atividade História
 
-### Coleta de fatos
+#### Coleta de fatos
 
 Mesmo sabendo que o prof. Miguel mostrou um pouco da história da computação mostrando fisicamente os equipamentos em sala, mas vamos olhar um pouco mais ... Vamos olhar um pouco a história da Ciência da Computação com a história do computador.  
 
@@ -46,7 +49,7 @@ No inicio deste arquivo coloquem os nomes dos integrantes da equipe. E usem este
 Mas aproveitem o momento e viajem na história. Leiam, assistam vídeos, escutem podcasts, troquem ideias e informações.  
 
 <!-- [x]TODO:INICIO atualizar: deixar comentada está segunda parte do enunciado do trabalho, para eles primero pesquisarem os fatos acima e depois criarem a linha do tempo -->
-### Produção do InfoGráfico
+#### Produção do InfoGráfico
 
 Bom, agora a equipe deverá elaborar uma linha do tempo da história da computação (computação, computador, internet, informática regional).  
 
@@ -76,12 +79,12 @@ E na próxima aula (sexta quem vem), faremos:
 Bom final de semana.
 -->
 
-## Aula: 03
+## Aula04
 
 Como vocês já pesquisaram um pouco sobre a história da Ciências da Computação então vamos conhecer um pouco mais sobre a história da Computação e do computador por meio de alguns vídeos.  
 Como para assistir todos os vídeos levará um pouco mais que o tempo de nossa aula, peço que comecem assistir agora e terminem durante a semana.  
 
-Lista de Vídeos:
+### Lista de Vídeos
 
 - [A história da informação - Documentário BBC 59:06](<https://www.youtube.com/watch?v=ppNCQ5cC5uA&feature=youtu.be> "A história da informação - Documentário BBC")  
   - Com destaque para a contribuição de Alan Turing (habilite legendas em português, se necessário) - Vale a pena assistir completo!  
@@ -89,6 +92,8 @@ Lista de Vídeos:
 - [A evolução dos computadores - PCMarvie 13:48](<https://www.youtube.com/watch?v=mFdUqqwzbVs> "[A evolução dos computadores - PCMarvie")  
 - [A História da Internet - TecMundo 14:34](<https://www.youtube.com/watch?v=pKxWPo73pX0> "A História da Internet - TecMundo")  
 - [A história da Internet no Brasil - TecMundo 14:32](<https://www.youtube.com/watch?v=k_inQhpKprg> "A história da Internet no Brasil - TecMundo")  
+
+### Atividade Vídeos
 
 Bom, agora vamos trocar ideias!  
 Depois de assistir, participe do fórum disponível mais abaixo para comentar o que você mais gostou, o que deixou você intrigado ou confuso, o que você concorda ou discorda em relação aos comentários de seus colegas.  

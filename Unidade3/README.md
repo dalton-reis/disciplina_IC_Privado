@@ -1,17 +1,18 @@
 # Unidade 3 - Mercado de trabalho
 
-## Aula: 04 - Stack Overflow
+3.1 Funções, 3.2 Áreas de atuação  
+Conhecer as perspectivas e oportunidades profissionais do egresso em Ciência da Computação. Posicionar as áreas de atuação tanto no mercado como nas Universidades.  
+
+## Aula05
 
 Iniciaremos esta unidade com uma atividade para as equipes analisando uma pesquisa a respeito de desenvolvedores ao redor do mundo.
 
-<!--
-No dia 08/abril teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, Fábio Jascone. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
--->
-
-## Atividade - Developer Survey Results 2021
+### Stack Overflow
 
 A Pesquisa Anual da Stack Overflow é a maior e mais abrangente pesquisa sobre pessoas que programam ao redor do mundo.  
 Na versão 2021 (11a edição da pesquisa), quase 80 mil desenvolvedores de 180 países participaram, qualificando os resultados como uma real fotografia do universo dos que trabalham nos bastidores da informática.  
+
+### Atividade Developer Survey Results 2021
 
 Na aula de hoje iremos conhecer seus resultados e refletir um pouco sobre nossa carreira.  
 Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos lá!  
@@ -23,8 +24,7 @@ A equipe deve responder as perguntas abaixo observando os resultados da pesquisa
 Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais).  
 Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta.  
 
-1. Que tipos de atividades ligadas a desenvolvimento de software podem ser listadas ?  
-O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das três.  
+1. Que tipos de atividades ligadas a desenvolvimento de software podem ser listadas ? O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das três.  
 
 2. Como é a participação feminina no universo dos desenvolvedores aqui no Brasil?  
 
@@ -34,8 +34,7 @@ O que vocês imaginam que façam três delas? Descrevam brevemente cada uma das 
 
 5. Os desenvolvedores trabalham em pequenas ou grandes empresas? O que cada membro da equipe prefere?  
 
-6. Quando se vai comparar duas ofertas de emprego, vários fatores são considerados além de salário, benefícios e localização. Quais os principais fatores segundo os desenvolvedores?  
-Quais cada membro da equipe consideraria caso houvesse duas vagas de emprego que oferecessem salário, benefícios e localização similares? Indique três em ordem de prioridade.  
+6. Quando se vai comparar duas ofertas de emprego, vários fatores são considerados além de salário, benefícios e localização. Quais os principais fatores segundo os desenvolvedores? Quais cada membro da equipe consideraria caso houvesse duas vagas de emprego que oferecessem salário, benefícios e localização similares? Indique três em ordem de prioridade.  
 
 7. Qual o nível de formação da maioria dos desenvolvedores profissionais? Em que cursos?  
 
@@ -51,7 +50,13 @@ Quais cada membro da equipe consideraria caso houvesse duas vagas de emprego que
 
 Boa atividade. E lembrem, discutam as respostas com os seus colegas de equipe 😉.
 
-## Aula: 05 - Palestra: Fabio Jascone
+## Aula06
+
+### Palestra Fabio Jascone
+
+<!--
+No dia 08/abril teremos uma conversa com o Gerente de Pesquisa e Desenvolvimento da Philips, Fábio Jascone. Ele abordará aspectos do cotidiano de uma equipe de desenvolvimento de software em uma empresa de grande porte. Além de muitas dicas para o desenvolvimento da carreira em TI. 
+-->
 
 Bom, vamos continuar olhando como está o Mercado de trabalho na área da Computação. Então convido a todos a primeiro olharem um pouco sobre o nosso palestrante, Fabio Jascone, vitando os links abaixo:
 
@@ -62,6 +67,8 @@ Bom, vamos continuar olhando como está o Mercado de trabalho na área da Comput
 E agora assista a sua palestra como gerente de projeto na empresa Philips:
 
 - [Fabio Jascone: Palestra /[1:31:01/]](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcDHgJURrK1FnzF5EY4OPXEB8hU70WcK-a251JrbhG9_Kw?e=WP0faK> "Fabio Jascone: Palestra")  
+
+### Atividade Palestra
 
 Após ter assistido a palestra que tal trocar algumas ideias!  
 Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  

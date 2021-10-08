@@ -1,10 +1,21 @@
-# Aula: 01
+# Unidade1 - O que é Ciência da Computação
 
+1.1 Definição, 1.2 Formação em Computação, 1.3 Computação na FURB  
+Caracterizar o aspecto de formação dirigida para o desenvolvimento científico e tecnológico da computação. Diferenciar Ciências da computação e Sistemas de Informação.  
+
+## Aula01
+
+### Convidados
+
+- Diretor do CCEN
+- Coordenadores dos Cursos
+
+### Professor
+
+- [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis "Apresentação do Professor")  
 - Avisos: os avisos serão feitos todos pelo Teams
 
-## [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis "Apresentação do Professor")  
-
-## Plano de Ensino
+### Plano de Ensino
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
@@ -13,19 +24,21 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 - Avaliações: prazos nas atividades no AVA3 dentro das unidades, e no cronograma
 - Referências bibliográficas: algumas, mas iremos buscar mais nas aulas  
   
-### Apoio
+#### Apoio
 
 - links gerais de toda a disciplina
   - cronograma: divisão das unidades, qual conteúdo, prazos de entrega
   - repositório: todo o conteúdo da disciplina e os exercícios das atividades práticas
 
-## Unidade 1 - O que é Ciência da Computação
+## Aula02
+
+### Unidade 1 - O que é Ciência da Computação
 
 Vocês terão 10 min para pesquisar e discutir o que é (e o que não é) Ciência da Computação.  
 
-### 1.1 Ciência da Computação (Conceitos e Considerações)
+#### 1.1 Ciência da Computação (Conceitos e Considerações)
 
- “É a partir dos anos 1970 que a Ciência da Computação é reconhecida como uma área científica autônoma. Surge a partir de outras áreas mais antigas como Engenharia Elétrica, Matemática e Lingüística Formal.”  
+ “É a partir dos anos 1970 que a Ciência da Computação é reconhecida como uma área científica autônoma. Surge a partir de outras áreas mais antigas como Engenharia Elétrica, Matemática e Linguística Formal.”  
 
 Ciência da Computação: (1) “... é o estudo dos algoritmos, suas aplicações e de sua implementação, na forma de Programas/Sistemas/Software, para execução em computadores.”  
 
@@ -39,7 +52,7 @@ Algoritmos: (2) “... é um conjunto de instruções de uma linguagem, interpre
 
 "Ciência da computação tem tanto a ver com o computador como a Astronomia com o telescópio, a Biologia com o microscópio, ou a Química com os tubos de ensaio. A Ciência não estuda ferramentas, mas o que fazemos e o que descobrimos com elas.” (Edsger Dijkstra, cientista de computação holandês).  
 
-### 1.2 Formação em Computação
+#### 1.2 Formação em Computação
 
 Para formação superior em Computação no Brasil, o MEC e SBC definem diferentes cursos:  
 
@@ -57,7 +70,7 @@ Para formação superior em Computação no Brasil, o MEC e SBC definem diferent
   ...
 
 <!-- FIXME: buscar material do curso de SIS também -->
-### 1.3 Ciência da Computação na FURB
+#### 1.3 Ciência da Computação na FURB
 
 O curso de Ciência da Computação da Universidade Regional de Blumenau tem como objetivo formar um profissional com conhecimento científico e base sólida em computação, atendendo de forma proativa e ética às demandas da comunidade regional ( PPC - Projeto Pedagógico do Curso de Ciência da Computação - BCC da FURB, Set/2018).  
 
@@ -78,7 +91,7 @@ As áreas de atuação pretendidas para o “Cientista da Computação”são: (
 - consultoria e assessoria especializada em computação; e  
 - desenvolvimento de soluções de software e hardware para problemas complexos.  
 
-### 1.4. Os benefícios do curso para a Sociedade
+#### 1.4. Os benefícios do curso para a Sociedade
 
 Texto extraído dos “Referenciais de Formação para os Cursos de Graduação em Computação” (Zorzo, A. F.; Nunes, D.; Matos, E.; Steinmacher, I.; Leite, J.; Araujo, R. M.; Correia, R.; Martins, S. Sociedade Brasileira de Computação (SBC). 153p, 2017. ISBN 978-85-7669-424-3, p. 14).  
 

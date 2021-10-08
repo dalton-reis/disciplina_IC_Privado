@@ -7,7 +7,7 @@ Dia da semana: sextas (20:20\~22:00)
 
 -----------
 
-## Unidade1
+## Unidade1 - O que é Ciência da Computação
 
 ### Aula01 06/08/21
 
@@ -25,99 +25,102 @@ Dia da semana: sextas (20:20\~22:00)
     Senão tiver microfone, escreve no Chat do Teams que eu leio  
 - [x] Slides_Unidade1  
 
+### Aula02 20/08/21
+
+- [x] Apresentação da turma (para os que não fizeram na aula anterior).  
+- [x] Slides_Unidade1  
+
 -----------
 
-## Unidade2
+## Unidade 2 - História da Computação e do Computador
 
-### Aula03 20/08/21
+### Aula03 27/08/21
 
 - [x] Definir equipes 3 alunos.  
 - Unidade 2: história da computação e do computador.  
-- Divisão dos grupos e início da atividade de coleta de fatos históricos.  
-
-### Aula04 27/08/21
-
+- Divisão dos grupos.  
 - Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
-- Unidade 2: criação de um infográfico coletivo (toda a sala) e apresentação  de um fato histórico por aluno.
 
 ### 03/09/21
 
 - Feriado Aniversário Blumenau
 
-### Aula05 10/09/21
+### Aula03 10/09/21
 
+- Unidade 2: criação de um infográfico coletivo (toda a sala) e apresentação  de um fato histórico por aluno.
 - Apresentação do infográfico pela Equipe, e oportunizando para discutir sobre o assunto.  
 
------------
+### Aula04 17/09/21
 
-## Unidade3
-
-### Aula06 17/09/21
-
-- Mercado de trabalho.  
-- Atividade em trios para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
-
-### Aula07 24/09/21
-
-- Mercado de trabalho.  
-- Conversa sobre mercado de trabalho (cotidiano e carreira) com XXXX, Gerente de YYYY.
+- Atividade para assistir os vídeos históricos.  
 
 -----------
 
-## Unidade4
+## Unidade 3 - Mercado de trabalho
 
-### Aula08 01/10/21
+### Aula05 24/09/21
 
-- Sistemas operacionais.
-- Atividade de preparação - fórum de perguntas sobre S.O. em equipes.
+- Mercado de trabalho.  
+- Atividade em equipe para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
 
-### Aula09 08/10/21
+### Aula06 01/10/21
+
+- Mercado de trabalho.  
+- Conversa sobre mercado de trabalho (cotidiano e carreira) com Fabio Jascone, Gerente de Projeto na empresa Philips.
+
+-----------
+
+## Unidade4 - Sistemas Operacionais
+
+### Aula07 08/10/21
+
+- Discussão sobre dúvidas da Palestra Jascone.  
+- Atividade de preparação - fórum de perguntas sobre SO em equipes.  
+
+### Aula08 15/10/21
 
 - Slides até Evolução dos Sistemas Operacionais (até gerência de memória).  
 
-### Aula10 15/10/21
+### Aula10 22/10/21
 
 - Finalização dos slides da Unidade 4 - Sistemas operacionais (finalização).  
 
-### Aula11 22/10/21
+### Aula11 29/10/21
 
 - Avaliação das unidades 3 e 4: mapa mental e questionário.  
   - Desenvolvimento em duplas de um mapa mental sobre Sistemas Operacionais (avaliação).  
-  - Questionário individual de avaliação.
+  - Questionário individual de avaliação.  
 
 -----------
 
-## Unidade5
+## Unidade5 - Linguagens de programação
 
-### Aula12 29/10/21
+### Aula12 05/11/21
 
 - Linguagens de Programação (até paradigmas de desenvolvimento).  
 
-### Aula13 05/11/21
+### Aula13 12/11/21
 
 - Linguagens de Programação.  
 - Definição do seminário sobre linguagens de programação (avaliação).  
 
-### Aula14 12/11/21
+### Aula14 19/11/21
 
 - Avaliação: questionário e Hello World.  
 - Seminários sobre linguagens de programação: apresentação pelas duplas (10 linguagens).  
 
 -----------
 
-## Unidade6
+## Unidade6 - Sustentabilidade
 
-### Aula15 19/11/21
+### Aula15 26/11/21
 
 - Sustentabilidade: ética. Dilemas éticos na sociedade.  
 
-### Aula16 26/11/21
+### Aula16 03/12/21
 
 - Sustentabilidade. Atividade avaliativa em duplas sobre Sustentabilidade e Ética.  
-
-### Aula17 03/12/21
-
-- Fechamento. Dúvidas sobre o curso, matriz curricular e matrícula.  
+- Fechamento da disciplina.  
 
 -----------
 
