@@ -41,9 +41,19 @@ Caso alguém queira fazer algum comentário, complemento ou contraposição à r
 
 ### Atividade 07
 
+-->
+
 ## Aula08
+
+### Slides Sistemas operacionais
+
+[Slides Unidade4](Unidade4.pdf "Slides Unidade4")  
+[Vídeo memória](Memoria.m4v "Vídeo memória")  
+
+<!--
 
 ### Ação 08
 
 ### Atividade 08
+
 -->
