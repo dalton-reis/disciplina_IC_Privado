@@ -11,3 +11,33 @@ Videos Marcel:
 
 Material Péricas:
 <https://ava3.furb.br/course/view.php?id=25462>
+
+# Estudando
+
+Material em: </Volumes/HD_APOIO/GIT/disciplinas/ic/disciplinaICPrivado/_._/Arrumar/Videos/Aula04_2021-03-18_Reduz.m4v>
+
+## Unidade1 - O que é Ciência da Computação
+
+[x] Aula01_2021-02-25_Reduz.m4v
+
+## Unidade2 - História da Computação
+
+[x] Aula02_2021-03-04_Reduz.m4v
+[x] Aula03_2021-03-11_Reduz.m4v
+[x] Aula04_2021-03-18_Reduz.m4v
+
+## Unidade3 - Mercado de trabalho
+
+[x] Aula05_2021-03-25_Reduz.m4v Atividade StakOverFlow  
+[x] Aula06_2021-04-08_Reduz.m4v Atividade PalestraJascone  
+
+## Unidade4 - Sistemas Operacionais
+
+[x] Aula07_2021-04-15_Reduz.m4v  Revisão sobre a palestra do Jascone e Atividade de SO  
+[x] Aula08_2021-04-22_Reduz.m4v Slides Unidade4.pptx sobre SO  [1..18]
+[ ] Aula09_2021-04-29_Reduz.m4v Slides Unidade4.pptx sobre SO  [19..]
+
+Aula10_2021-05-13_Reduz.m4v
+Aula11_2021-05-20_Reduz.m4v
+Aula12_2021-05-27_Reduz.m4v
+Aula13_2021-06-10_Reduz.m4v
