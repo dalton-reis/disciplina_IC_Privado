@@ -48,9 +48,9 @@ Caso alguém queira fazer algum comentário, complemento ou contraposição à r
 ### Slides Sistemas operacionais
 
 [Slides Unidade4](Unidade4.pdf "Slides Unidade4")  
-[Vídeo memória /[04:45/]](Memoria.mov "Vídeo memória /[04:45/]")  
+[Vídeo memória \[04:45\]](Memoria.mov "Vídeo memória \[04:45\]")  
 
 ### Video Conceitos do SO
 
 Bom, agora sessão "pipoca" ... vamos assistir um video.  
-[ConceitosSO /[22:03/]](ConceitosSO.mp4 "ConceitosSO /[22:03/]")  
+[ConceitosSO \[22:03\]](ConceitosSO.mp4 "ConceitosSO \[22:03\]")  
