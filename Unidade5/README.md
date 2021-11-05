@@ -11,7 +11,7 @@ Situar sobre a história das linguagens de programação. Identificar as fases d
 
 ### Atividade Linguagens de Programação
 
-Vamos iniciar as discussões desta unidade passeando um pouco sobre os Linguagens de Programação e os Ambientes de Desenvolvimento (IDEs).  
+Vamos iniciar as discussões desta unidade passeando um pouco sobre as Linguagens de Programação e os Ambientes de Desenvolvimento (IDEs).  
 
 Em equipe, escolham uma Linguagem de Programação (menos Java) e uma IDE (menos VSCode), e postem no fórum no AVA3.
 
