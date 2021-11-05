@@ -9,9 +9,9 @@ Reconhecer os principais sistemas operacionais do mercado. Identificar as princi
 
 - [Unidade3_PalestraConversa.pdf](Unidade3_PalestraConversa.pdf "Unidade3_PalestraConversa.pdf")  
 
-### Sistemas operacionais
+### Sistemas Operacionais
 
-### Atividade Sistemas operacionais
+### Atividade Sistemas Operacionais
 
 Vamos iniciar as discussões desta unidade explorando um pouco o mundo dos sistemas operacionais.  
 
@@ -45,7 +45,7 @@ Caso alguém queira fazer algum comentário, complemento ou contraposição à r
 
 ## Aula08
 
-### Slides Sistemas operacionais
+### Slides Sistemas Operacionais
 
 [Slides Unidade4](Unidade4.pdf "Slides Unidade4")  
 [Vídeo memória \[04:45\]](Memoria.mov "Vídeo memória \[04:45\]")  
