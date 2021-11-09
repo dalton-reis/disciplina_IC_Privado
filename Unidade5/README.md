@@ -37,7 +37,12 @@ Slides IDE:
 
 ### Versionamento de códigos
 
-[https://github.com/dalton-reis/tecnologia_Git](https://github.com/dalton-reis/tecnologia_Git "https://github.com/dalton-reis/tecnologia_Git")  
+[https://github.com/dalton-reis/tecnologia_Git](<https://github.com/dalton-reis/tecnologia_Git> "https://github.com/dalton-reis/tecnologia_Git")  
+
+
+### Wakatime - Ferramenta para rastrear o tempo
+
+[WakaTime disciplinaIpPrivado](<https://wakatime.com/@dalton_reis/projects/jaxdrmqjfo?start=2021-11-03&end=2021-11-09> "WakaTime disciplinaIpPrivado")  
 
 ### Ação 10
 
