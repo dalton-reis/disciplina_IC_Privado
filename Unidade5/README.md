@@ -33,6 +33,8 @@ Slides IDE:
 3) Imagem da Interface (explicar algumas funções)  
 4) Permite extensões (etc.)  
 
+Bom, agora utilizem este fórum para cada equipe publicar seus slides [AVA3](<https://ava3.furb.br/mod/forum/view.php?id=558262> "AVA3").  
+
 ## Aula10
 
 ### Versionamento de códigos
