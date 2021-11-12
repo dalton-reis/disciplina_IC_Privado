@@ -8,6 +8,7 @@ Situar sobre a história das linguagens de programação. Identificar as fases d
 ### Slides Linguagens de Programação
 
 [Slides Unidade5](Slides_Unidade5.pdf "Slides Unidade5")  
+[Rangue das Linguagens](LP_ranque.png "Rangue das Linguagens")  
 
 ### Atividade Linguagens de Programação
 
