@@ -1,7 +1,7 @@
-# Cronograma: IC (2021-2) - noturno
+# Cronograma: IC (2023-2) - noturno
 
-Local:  
-Dia da semana: sextas (20:20\~22:00)  
+Local: S-415  
+Dia da semana: quintas (20:20\~22:00)  
 
 ## Cronograma Completo
 
@@ -9,48 +9,48 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Unidade1 - O que é Ciência da Computação
 
-### Aula01 06/08/21
+### Aula01 03/08/23
 
 - [x] Apresentação dos coordenadores dos cursos (BCC e SIS).  
 - [x] Apresentação da diretora do Centro (CCEN).  
 - [x] [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis "Apresentação do Professor").  
 - [x] Apresentação do plano de ensino.  
-- [x] Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<bu.furb.br>)  
+- [x] Mostrar portal acadêmico, curso no site da FURB  e biblioteca (<http://bu.furb.br/>)  
 
-### Aula02 13/08/21
+### Aula02 10/08/23
 
-- [x] Apresentação da turma (ligar câmera HD do PC para mostrar o aluno na sala).  
+- [x] Apresentação da turma <!-- Pandêmia ... (ligar câmera HD do PC para mostrar o aluno na sala). -->
+    <!-- Senão tiver câmera (pode usar celular) -->
+    <!-- Senão tiver microfone, escreve no Chat do Teams que eu leio -->  
     Nome, cidade, algum hobbit pessoal, se já trabalha com computação ...
-    Senão tiver câmera (pode usar celular)
-    Senão tiver microfone, escreve no Chat do Teams que eu leio  
 - [x] Slides_Unidade1  
 
-### Aula02 20/08/21
+### Aula03 17/08/23
 
-- [x] Apresentação da turma (para os que não fizeram na aula anterior).  
-- [x] Slides_Unidade1  
+- [ ] Apresentação da turma (para os que não fizeram na aula anterior).  
+- [ ] Slides_Unidade1  
 
 -----------
 
 ## Unidade 2 - História da Computação e do Computador
 
-### Aula03 27/08/21
+### Aula04 24/08/23
 
-- [x] Definir equipes 3 alunos.  
+- [ ] Definir equipes 6 alunos.  
 - Unidade 2: história da computação e do computador.  
 - Divisão dos grupos.  
 - Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
 
-### 03/09/21
-
-- Feriado Aniversário Blumenau
-
-### Aula03 10/09/21
+### Aula05 31/08/23
 
 - Unidade 2: criação de um infográfico coletivo (toda a sala) e apresentação  de um fato histórico por aluno.
 - Apresentação do infográfico pela Equipe, e oportunizando para discutir sobre o assunto.  
 
-### Aula04 17/09/21
+### 07/09/23
+
+- Feriado Independência  
+
+### Aula06 14/09/23
 
 - Atividade para assistir os vídeos históricos.  
 
@@ -58,12 +58,12 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Unidade 3 - Mercado de trabalho
 
-### Aula05 24/09/21
+### Aula07 21/09/23
 
 - Mercado de trabalho.  
 - Atividade em equipe para análise de uma pesquisa da StackOverflow sobre desenvolvedores ao redor do mundo em 2020.  
 
-### Aula06 01/10/21
+### Aula08 28/09/23
 
 - Mercado de trabalho.  
 - Conversa sobre mercado de trabalho (cotidiano e carreira) com Fabio Jascone, Gerente de Projeto na empresa Philips.
@@ -72,20 +72,28 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Unidade4 - Sistemas Operacionais
 
-### Aula07 08/10/21
+### Aula09 05/10/23
 
 - Discussão sobre dúvidas da Palestra Jascone.  
 - Atividade de preparação - fórum de perguntas sobre SO em equipes.  
 
-### Aula08 15/10/21
+### 12/10/23
+
+- Feriado NS Aparecida  
+
+### Aula10 19/10/23
 
 - Slides até Evolução dos Sistemas Operacionais (até gerência de memória).  
 
-### Aula10 22/10/21
+### Aula11 26/10/23
 
 - Finalização dos slides da Unidade 4 - Sistemas operacionais (finalização).  
 
-### Aula11 29/10/21
+### 02/11/23
+
+- Feriado Finados  
+
+### Aula12 09/11/23
 
 - Avaliação das unidades 3 e 4: mapa mental e questionário.  
   - Desenvolvimento em duplas de um mapa mental sobre Sistemas Operacionais (avaliação).  
@@ -95,16 +103,16 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Unidade5 - Linguagens de programação
 
-### Aula12 05/11/21
+### Aula13 16/11/23
 
 - Linguagens de Programação (até paradigmas de desenvolvimento).  
 
-### Aula13 12/11/21
+### Aula14 23/11/23
 
 - Linguagens de Programação.  
 - Definição do seminário sobre linguagens de programação (avaliação).  
 
-### Aula14 19/11/21
+### Aula15 30/11/23
 
 - Avaliação: questionário e Hello World.  
 - Seminários sobre linguagens de programação: apresentação pelas duplas (10 linguagens).  
@@ -113,18 +121,14 @@ Dia da semana: sextas (20:20\~22:00)
 
 ## Unidade6 - Sustentabilidade
 
-### Aula15 26/11/21
+### Aula16 30/11/23
 
 - Sustentabilidade: ética. Dilemas éticos na sociedade.  
-
-### Aula16 03/12/21
-
-- Sustentabilidade. Atividade avaliativa em duplas sobre Sustentabilidade e Ética.  
 - Fechamento da disciplina.  
 
 -----------
 
-Último dia para entregar os diários de classe 2021/2: 04/12/21 - 15/12/21
+Último dia para entregar os diários de classe 2023/2: 02/12/23 - 12/12/23
 
 <!-- 
 Ideias

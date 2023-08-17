@@ -40,7 +40,7 @@ Bom, agora utilizem novamente este fórum para cada equipe postarem seus slides 
 
 ### Versionamento de códigos
 
-[https://github.com/dalton-reis/tecnologia_Git](<https://github.com/dalton-reis/tecnologia_Git> "https://github.com/dalton-reis/tecnologia_Git")  
+[https://github.com/dalton-reis/projetoEnsino/tree/main/Git](<https://github.com/dalton-reis/projetoEnsino/tree/main/Git> "https://github.com/dalton-reis/projetoEnsino/tree/main/Git")  
 
 
 ### Wakatime - Ferramenta para rastrear o tempo
