@@ -65,6 +65,7 @@ Dia da semana: quintas (20:20\~22:00)
 
 ### Aula08 28/09/23
 
+- Interação FURB.  
 - Mercado de trabalho.  
 - Conversa sobre mercado de trabalho (cotidiano e carreira) com Fabio Jascone, Gerente de Projeto na empresa Philips.
 
