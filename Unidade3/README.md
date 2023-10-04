@@ -19,7 +19,7 @@ Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos 
 
 <https://insights.stackoverflow.com/survey/2021>  
 
-A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2021. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/forum/view.php?id=492040> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
+A equipe deve responder as perguntas abaixo observando os resultados da pesquisa 2021. O conjunto de respostas será postado como um novo tópico de discussão do fórum no [AVA3](<https://ava3.furb.br/mod/assign/view.php?id=850683> "AVA3"). Não esqueçam de identificar os membros da equipe no início da resposta.  
 
 Quando uma pergunta apresentar seus resultados separando os desenvolvedores profissionais (professional developers), utilize estes dados para basear sua resposta (a aba dos desenvolvedores profissionais).  
 Se a pergunta fizer menção a cada membro da equipe, coloque o nome de cada um e sua respectiva resposta.  
