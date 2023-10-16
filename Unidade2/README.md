@@ -100,4 +100,4 @@ Depois de assistir, participe do fórum disponível mais abaixo para comentar o 
 Assim, individualmente, poste seus comentários, observações, dúvidas. Após sua publicação, você visualizará comentários de colegas e então poderá interagir com eles.  
 Ao menos um comentário seu e uma réplica em comentário de colegas são necessários para concluir esta atividade.  
 
-[Comentários sobre os vídeos assistidos](<https://ava3.furb.br/mod/forum/view.php?id=492037> "Comentários sobre os vídeos assistidos")  
+[Comentários sobre os vídeos assistidos](<https://ava3.furb.br/mod/assign/view.php?id=837704> "Comentários sobre os vídeos assistidos")  

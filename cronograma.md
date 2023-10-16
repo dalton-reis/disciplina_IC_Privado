@@ -27,8 +27,8 @@ Dia da semana: quintas (20:20\~22:00)
 
 ### Aula03 17/08/23
 
-- [ ] Apresentação da turma (para os que não fizeram na aula anterior).  
-- [ ] Slides_Unidade1  
+- [x] Apresentação da turma (para os que não fizeram na aula anterior).  
+- [x] Slides_Unidade1  
 
 -----------
 
@@ -36,7 +36,7 @@ Dia da semana: quintas (20:20\~22:00)
 
 ### Aula04 24/08/23
 
-- [ ] Definir equipes 6 alunos.  
+- [x] Definir equipes 6 alunos.  
 - Unidade 2: história da computação e do computador.  
 - Divisão dos grupos.  
 - Desenvolvimento do infográfico da linha do tempo da computação (em equipe, atividade avaliativa).  
