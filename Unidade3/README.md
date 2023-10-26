@@ -95,6 +95,8 @@ Não esqueça de apresentar este pontos:
 - comentar dos principais assuntos abordados  
 - enriqueça a sua apresentação com recursos visuais (imagens, video, etc.)  
 
+**Prazo**: próxima aula.  
+
 ##### Equipe 1
 
 Alunos: Jaime Junior Rodrigues, João Victor Rodrigues, Lucas Samuel Gustzaki e Pedro Henrique Windisch  
@@ -139,5 +141,3 @@ Alunos: João Gabriel Felizetti e Mikhael Zimmermann
 
 Alunos: Davi Leone Tamanini e Gabriel Pires Meyer  
 <https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP9---Gabriel-Amncio---Unifique-e1r3p7s>  
-
-**Prazo**: próxima aula.  
