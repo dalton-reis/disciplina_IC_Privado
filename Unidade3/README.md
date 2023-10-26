@@ -12,7 +12,7 @@ Iniciaremos esta unidade com uma atividade para as equipes analisando uma pesqui
 A Pesquisa Anual da Stack Overflow é a maior e mais abrangente pesquisa sobre pessoas que programam ao redor do mundo.  
 Na versão 2021 (11a edição da pesquisa), quase 80 mil desenvolvedores de 180 países participaram, qualificando os resultados como uma real fotografia do universo dos que trabalham nos bastidores da informática.  
 
-### Atividade Developer Survey Results 2021
+#### Atividade Developer Survey Results 2021
 
 Na aula de hoje iremos conhecer seus resultados e refletir um pouco sobre nossa carreira.  
 Os grupos são as equipes que já foram definidas, preparem seu inglês e vamos lá!  
@@ -67,7 +67,7 @@ E agora assista a sua palestra como gerente de projeto na empresa Philips:
 
 - [Fabio Jascone: Palestra [1:31:01]](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EePEEhMq5StGoyaRffdnCZkBfDEBsIUdVR9evK7mJlcqUA?e=cS8OfW> "Fabio Jascone: Palestra")  
 
-### Atividade Palestra
+#### Atividade Palestra
 
 Após ter assistido a palestra que tal trocar algumas ideias!  
 Então peço que participe do fórum disponível mais abaixo para fazer um comentário de algum momento da palestra que você mais gostou ou que possa vir a contribuir na sua carreira profissional. E também mencione um dos possíveis cargos da área da computação na empresa que foi comentado na palestra. Comente o que o Jascone disse sobre o papel da Universidade na sua formação profissional. E cite algumas dicas deixadas por ele para melhorar o seu portfólio profissional.  
@@ -79,3 +79,65 @@ Para saber mais:
 - [Philips Azurion Biplane Geometry](<https://youtu.be/E3Us_kox5Ac> "Philips Azurion Biplane Geometry")  
 - [Flexibility in your Hybrid OR - Philips Azurion with FlexArm](<https://youtu.be/L78UxTsdGjM> "Flexibility in your Hybrid OR - Philips Azurion with FlexArm")  
 - [Scrum](<https://pt.wikipedia.org/wiki/Scrum_(desenvolvimento_de_software)> "Scrum")  
+
+### PodCast VisHub - FURB
+
+Deseja conhecer um pouco mais sobre o marcado de informática na região ..  
+Bom, agora cada equipe vai preparar uma apresentação usando a forma que achar mais interessante referente a um dos episódios do PodCasts <https://linktr.ee/vishubfurb>  
+![DebugadosCompilados](DebugadosCompilados.png "DebugadosCompilados")  
+
+#### Atividade PodCast
+
+Não esqueça de apresentar este pontos:
+
+- quem são os entrevistados  
+- qual tecnologia é o episódio ... explicar um pouco a tecnologia  
+- comentar dos principais assuntos abordados  
+- enriqueça a sua apresentação com recursos visuais (imagens, video, etc.)  
+
+##### Equipe 1
+
+Alunos: Jaime Junior Rodrigues, João Victor Rodrigues, Lucas Samuel Gustzaki e Pedro Henrique Windisch  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP1---Elinton-Maral---SCI-e1o7o2f>
+
+##### Equipe 2
+
+Alunos: Caio Farias Pereira, Gustavo Vergilio Poleza, Lucas Kuhl dos SantosMiguel Kurchevski Gutierrez e Thiago Henrique Russi  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP2---Udo-Schroeder---CIB-e1o7p05>  
+
+##### Equipe 3
+
+Alunos: Enzo Gabriel da Rocha, Gabrielle Piske, Lucas Neves, Richard Nathan Domingos e Saionara Inácio  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP3---Bruno-Tiergarten---BlusoftMegasul-e1o7p58>  
+
+##### Equipe 4
+
+Alunos: Alex Vieira Dias, Caio Dalagnoli Dranka, Lemuel Kauê Manske de Liz e Vinícius Müller  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP4---Marcelo-Ferrari---Datainfo-e1o7pkj>  
+
+##### Equipe 5
+
+Alunos: Guilherme Lazari Ribeiro, Júlio César Hornburg, Kawanna Cisz, Kayke Molinari, Kayla Gianotti Dias Macedo e Matheus Vicente de Mattos  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP5---Monalessa---ERS---NEMO-e1pjcbi>  
+
+##### Equipe 6
+
+Alunos: Eduardo Nitsche da Rosa, Gabriel Adriano Borges, Gabriel Fauxt e Michel Evandro da Silva  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP6---Mrcio-Tomelin---WK-e1pdemn>  
+
+##### Equipe 7
+
+Alunos: Fábio Felsky e Lucas Antônio Dellandréa Monteiro  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP7---Aloisio-Arbegaus-e-Silvio-Etges---Teclgica-e1pevl6>  
+
+##### Equipe 8
+
+Alunos: João Gabriel Felizetti e Mikhael Zimmermann  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP8---Roberto-C--Pereira-e-Jan-Peter-Findeiss---NTT-DATA-e1pf086>  
+
+##### Equipe 9
+
+Alunos: Davi Leone Tamanini e Gabriel Pires Meyer  
+<https://podcasters.spotify.com/pod/show/debugadosecompilados/episodes/T1EP9---Gabriel-Amncio---Unifique-e1r3p7s>  
+
+**Prazo**: próxima aula.  
