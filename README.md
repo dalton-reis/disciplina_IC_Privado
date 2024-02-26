@@ -29,14 +29,12 @@ Para se localizar em relação aos dias de aula e o conteúdo que está sendo pa
 
 ## [Unidade 3](./Unidade3 "Unidade 3")  
 
-## [Trabalho Final](./Unidade3 "Unidade 3")  
-
-
-<!--
 ## [Unidade 4](./Unidade4 "Unidade 4")  
+
 ## [Unidade 5](./Unidade5 "Unidade 5")  
+
 ## [Unidade 6](./Unidade6 "Unidade 6")  
 
--->
+## [Trabalho Final](./Unidade3 "Unidade 3")  
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
