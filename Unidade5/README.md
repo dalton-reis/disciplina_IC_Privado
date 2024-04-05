@@ -40,8 +40,7 @@ Bom, agora utilizem novamente este fórum para cada equipe postarem seus slides 
 
 ### Versionamento de códigos
 
-[https://github.com/dalton-reis/projetoEnsino/tree/main/Git](<https://github.com/dalton-reis/projetoEnsino/tree/main/Git> "https://github.com/dalton-reis/projetoEnsino/tree/main/Git")  
-
+[https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git](https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git "https://github.com/LDTTFURB/site/tree/main/projetoEnsino/_._/Git")  
 
 ### Wakatime - Ferramenta para rastrear o tempo
 
@@ -50,4 +49,3 @@ Bom, agora utilizem novamente este fórum para cada equipe postarem seus slides 
 ### Ação 10
 
 ### Atividade 10
-
